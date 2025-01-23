@@ -59,13 +59,10 @@ Kontribusi sangat diterima! Jika Anda ingin berkontribusi, lakukan langkah berik
    ```
 5. Buat Pull Request di GitHub.
 
-## Lisensi
-Proyek ini dilisensikan di bawah [MIT License](LICENSE).
-
 ## Kontak
 Jika ada pertanyaan atau saran, silakan hubungi:
 - **Nama**: Mikhael Agung
-- **Email**: (tambahkan jika ingin mencantumkan)
+- **Email**: mikhaelagung3@gmail.com
 
 ---
 
